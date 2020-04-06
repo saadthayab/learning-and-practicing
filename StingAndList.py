@@ -35,3 +35,6 @@ countdown = 10
 while countdown >0:
     print(countdown)
     countdown-=1
+
+my_stirng = "whats the status statooos please provide your status"
+print (my_stirng.upper())
