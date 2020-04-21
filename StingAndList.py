@@ -38,3 +38,13 @@ while countdown >0:
 
 my_stirng = "whats the status statooos please provide your status"
 print (my_stirng.upper())
+print ( str(len(my_stirng))+ "this the the length of the statussss") # dont forget that we cant mix 
+# int and string 
+
+# In Python there comparing two string using == , not .equal
+
+# in python and and or
+if (7==8) or  (9==9):
+     print ('true')
+else:
+    print ("fail")
