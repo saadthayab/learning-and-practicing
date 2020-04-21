@@ -20,5 +20,6 @@ class MyClass:
  def __str__(self):
   return "{0} is aged {1}.".format(self.name, self.age)
 
+# thats how to create the class in Python
 hello = MyClass("saad",41)
 print (hello)
